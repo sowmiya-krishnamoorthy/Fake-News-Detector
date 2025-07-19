@@ -53,6 +53,7 @@ cd fake-news-detector
 python -m venv venv
 
 source venv/bin/activate       # On Linux/macOS
+
 venv\Scripts\activate          # On Windows
 
 ## 🔧 Step 3: Install the Dependencies
