@@ -19,5 +19,5 @@ This is a Machine Learning-based web app that can detect whether a news article 
 ### 🔧 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-NAME/fake-news-detector.git
+git clone https://github.com/sowmiya-krishnamoorthy/fake-news-detector.git
 cd fake-news-detector
