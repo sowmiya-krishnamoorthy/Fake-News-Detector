@@ -64,7 +64,7 @@ streamlit run app.py
 ---
 
 
-✅ How It Works
+## ✅ How It Works
 
 1.Input a news article into the text box.
 2.The app processes the text using a TF-IDF vectorizer.
