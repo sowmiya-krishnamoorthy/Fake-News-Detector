@@ -6,13 +6,6 @@ st.set_page_config(page_title="Fake News Detector", layout="centered")
 
 st.markdown("""
     <style>
-            body {
-               background-color: angular-gradient(
-            from 180deg at centre,
-            5AB373 10% 100% ,
-            A84646 100% 100% );
-             }
-            
             @import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap')
 
             html, body, [class*="css"] {
