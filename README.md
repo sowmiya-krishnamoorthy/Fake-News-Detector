@@ -29,11 +29,47 @@ A smart and lightweight web application that detects whether a news article is *
 
 ---
 
+## 📁 Project Structure
+
+Fake-News-Detector/
+├── app.py # Streamlit web app
+├── model.pkl # Trained ML model
+├── vectorizer.pkl # TF-IDF vectorizer
+├── requirements.txt # Required packages
+└── README.md # Project documentation
+
+
+---
+
 ## 🖥️ How to Run the Project
 
 ### 🔧 Step 1: Clone the Repository
 
-```bash
 git clone https://github.com/sowmiya-krishnamoorthy/fake-news-detector.git
 cd fake-news-detector
 
+## 🔧 Step 2: Create a Virtual Environment (Optional but Recommended)
+
+python -m venv venv
+
+source venv/bin/activate       # On Linux/macOS
+venv\Scripts\activate          # On Windows
+
+## 🔧 Step 3: Install the Dependencies
+pip install -r requirements.txt
+
+## 🔧 Step 4: Run the Application
+streamlit run app.py
+
+---
+
+
+✅ How It Works
+
+1.Input a news article into the text box.
+2.The app processes the text using a TF-IDF vectorizer.
+3.A trained Logistic Regression model analyzes the text.
+4.The result is displayed as either Real or Fake.
+
+
+---
