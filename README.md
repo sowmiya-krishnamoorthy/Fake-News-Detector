@@ -81,10 +81,8 @@ streamlit run app.py
 ## 📬 Contact
 
 Feel free to connect on
- LinkedIn at https://www.linkedin.com/in/sowmiya-k-378b14328
-
+LinkedIn at https://www.linkedin.com/in/sowmiya-k-378b14328
   or  
-
 email at  sowmiya140605@mail.com
 
 ---
