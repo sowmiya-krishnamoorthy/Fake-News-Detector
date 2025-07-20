@@ -68,8 +68,11 @@ streamlit run app.py
 ## ✅ How It Works
 
 1.Input a news article into the text box.
+
 2.The app processes the text using a TF-IDF vectorizer.
+
 3.A trained Logistic Regression model analyzes the text.
+
 4.The result is displayed as either Real or Fake.
 
 
@@ -77,6 +80,8 @@ streamlit run app.py
 
 ## 📬 Contact
 
-Feel free to connect on LinkedIn at https://www.linkedin.com/in/sowmiya-k-378b14328  or  email at  sowmiya140605@mail.com
+Feel free to connect on LinkedIn at https://www.linkedin.com/in/sowmiya-k-378b14328
+  or  
+email at  sowmiya140605@mail.com
 
 ---
